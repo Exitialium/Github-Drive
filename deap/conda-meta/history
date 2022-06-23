@@ -1,0 +1,22 @@
+==> 2022-06-15 10:26:44 <==
+# cmd: /Users/exitialium/miniforge3/bin/conda create --name deap python=3.9
+# conda version: 4.13.0
++conda-forge/noarch::pip-22.1.2-pyhd8ed1ab_0
++conda-forge/osx-arm64::ca-certificates-2022.5.18.1-h4653dfc_0
++conda-forge/osx-arm64::libcxx-14.0.5-h04bba0f_1
++conda-forge/osx-arm64::libzlib-1.2.12-h90dfc92_0
++conda-forge/osx-arm64::openssl-3.0.3-ha287fd2_0
++conda-forge/osx-arm64::python-3.9.13-h96fcbfb_0_cpython
++conda-forge/osx-arm64::python_abi-3.9-2_cp39
++conda-forge/osx-arm64::setuptools-62.3.4-py39h2804cbe_0
++conda-forge/osx-arm64::sqlite-3.38.5-h40dfcc0_0
++conda-forge/osx-arm64::zlib-1.2.12-h90dfc92_0
++defaults/noarch::tzdata-2022a-hda174b7_0
++defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
++defaults/osx-arm64::bzip2-1.0.8-h620ffc9_4
++defaults/osx-arm64::libffi-3.4.2-hc377ac9_4
++defaults/osx-arm64::ncurses-6.3-h1a28f6b_2
++defaults/osx-arm64::readline-8.1.2-h1a28f6b_1
++defaults/osx-arm64::tk-8.6.12-hb8d0fd4_0
++defaults/osx-arm64::xz-5.2.5-h1a28f6b_1
+# update specs: ['python=3.9']
